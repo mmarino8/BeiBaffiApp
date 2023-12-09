@@ -8,6 +8,7 @@ import { AdopcionPageRoutingModule } from './adopcion-routing.module';
 
 import { AdopcionPage } from './adopcion.page';
 
+
 @NgModule({
   imports: [
     CommonModule,
